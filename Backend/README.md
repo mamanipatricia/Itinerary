@@ -36,3 +36,5 @@ Levantar el servidor
 ```
 npm run server
 ```
+
+ Note: fork application

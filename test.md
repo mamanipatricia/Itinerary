@@ -23,4 +23,8 @@
 - git fetch origin master
 - git merge origin/master
 
+### To have changes on your local repository, but as a collaborator...
+- git fetch upstream master
+- git merge upstream/master
+
 ...Continue...
